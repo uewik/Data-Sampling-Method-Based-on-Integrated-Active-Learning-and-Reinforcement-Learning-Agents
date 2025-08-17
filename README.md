@@ -1,0 +1,1 @@
+This project implements and evaluates a bandit–based active learning framework, inspired by the paper Ensemble Active Learning by Contextual Bandits for AI Incubation in Manufacturing. The framework incorporates exploration- and exploitation-oriented agents and applies the Exp4.P core function to combine their decisions for sample acquisition.
